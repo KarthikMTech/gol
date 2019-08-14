@@ -1,3 +1,5 @@
+#Forked for learning. Original Marcus Pham : https://github.com/tanpv/gol
+
 This is a simple demonstration application used in the Jenkins Boostcamp course
 
 ## Building the project
